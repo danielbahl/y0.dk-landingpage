@@ -1,0 +1,16 @@
+#lightSwitch {
+	/*transform: scale(1.8);*/
+	display: none;
+}
+.lightSwitch {
+	position: absolute;
+	display: block;
+	bottom: 20px;
+	right: 20px;
+}
+.lightSwitchButton {
+	background-color: var(--darkmode-button);
+	color: var(--darkmode-text);
+	border-radius: 50px;
+	padding: 5px;
+}

@@ -1,4 +1,6 @@
-License
+Copyright (c) 2021 Daniel Bahl
+
+Personal License
 
 Copyright (C) 2021 Daniel Bahl
 
@@ -9,6 +11,6 @@ permission of Daniel Bahl.
 
 Dette website og al kildekode må ikke videredistribueres eller sælges eller benyttes uden tilladelse fra Daniel Bahl.
 
-Det er tilladt at forke websitet, fjerne ALLE grafiske medier som mit "BAHL" Logo mm. og bruge al- HTML og CSS koden på sit eget landing-page website.
+Det er tilladt at forke websitet, fjerne ALLE grafiske medier som mit "BAHL" Logo mm. og bruge al- HTML og CSS koden på sit eget landing-page website. Se desuden skeletton her: https://github.com/danielbahl/bahl.boilerplate
 
-- daniel
+-/db
