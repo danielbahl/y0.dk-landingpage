@@ -1,16 +1,22 @@
 Copyright (c) 2021 Daniel Bahl
-
-Personal License
-
-Copyright (C) 2021 Daniel Bahl
-
 This file is part of the y0.dk Landingpage project.
-
 The y0.dk Landingpage project can not be copied and/or distributed without the express
 permission of Daniel Bahl.
-
 Dette website og al kildekode må ikke videredistribueres eller sælges eller benyttes uden tilladelse fra Daniel Bahl.
-
 Det er tilladt at forke websitet, fjerne ALLE grafiske medier som mit "BAHL" Logo mm. og bruge al- HTML og CSS koden på sit eget landing-page website. Se desuden skeletton her: https://github.com/danielbahl/bahl.boilerplate
 
+Kort fortalt - Hvad må du gerne:
+
+ - Fork dette website, fjerne mine medier (logo, billeder etc.) og bruge det som skabelon til at bygge din egen personlige linkpage!
+ - Du må gerne linke tilbage til mig, som credit for skabelon til websitet
+ 
+ Hvad må du IKKE:
+ 
+  - Bruge koden her 1:1 
+  - Bruge mine billeder, logoer etc. som er Copyrighted.
+  - Du må ikke videresælge, distribuere eller dele dette videre som dit eget
+  - Du må ikke bruge denne kode i kommercielt øjemed
+
+Spørgsmål, ask me :)
+  
 -/db
